@@ -2,6 +2,7 @@
 Discord bot and API made for CNN (Crusalis News Network).
 
 # Repo structure
+```
 src/    
  ├─ commands/      - discord commands
  ├─ utils/         - util functions
